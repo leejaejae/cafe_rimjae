@@ -1,5 +1,4 @@
-package com.example.firstactivity;
-
+package com.rimjae.cafe_rimjae;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;

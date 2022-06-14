@@ -1,5 +1,4 @@
-package com.example.firstactivity;
-
+package com.rimjae.cafe_rimjae;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;

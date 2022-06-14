@@ -12,9 +12,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-<<<<<<< HEAD
+
 rootProject.name = "cafe_rimjae"
-=======
-rootProject.name = "FirstActivity"
->>>>>>> e0aaee4b117412b34ed13c7991b5de30ba82c8b1
+
 include ':app'
