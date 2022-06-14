@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882749950580",
+    "project_id": "cafe-rimjae",
+    "storage_bucket": "cafe-rimjae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882749950580:android:39f1fe4a6b31e8a951df21",
+        "android_client_info": {
+          "package_name": "com.rimjae.cafe_rimjae"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882749950580-u37u67d7u5csre345sqobhqqbgo7f5c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj8F1dON-R3ZtCFFWBBljZJDjV3LpmtiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882749950580-u37u67d7u5csre345sqobhqqbgo7f5c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
