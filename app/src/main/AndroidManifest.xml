@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.example.firstactivity">
 
     <application
@@ -10,16 +11,22 @@
         android:supportsRtl="true"
         android:theme="@style/FirstActivity">
         <activity
-            android:name=".SubActivity2"
+            android:name=".EdiyaFirst"
             android:exported="false" />
         <activity
-            android:name=".SubActivity1"
-            android:exported="false" />
+            android:name=".EdiyaFirst1"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
-            android:name=".SubAcitivy1"
-            android:exported="false" />
+            android:name=".EdiyaFirst2"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
         <activity
-            android:name=".MainActivity"
+            android:name=".EdiyaFirst3"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".Home"
             android:exported="true"
             android:theme="@style/SplashTheme">
             <intent-filter>
