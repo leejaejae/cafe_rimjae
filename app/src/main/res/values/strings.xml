@@ -1,3 +1,7 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">cafe_rimjae</string>
+=======
+    <string name="app_name">FirstActivity</string>
+>>>>>>> e0aaee4b117412b34ed13c7991b5de30ba82c8b1
 </resources>

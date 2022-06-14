@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.rimjae.cafe_rimjae">
+=======
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.firstactivity">
+>>>>>>> e0aaee4b117412b34ed13c7991b5de30ba82c8b1
 
     <application
         android:allowBackup="true"
@@ -8,10 +13,28 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
-        android:theme="@style/Theme.Cafe_rimjae">
+
+        android:theme="@style/FirstActivity">
         <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".EdiyaFirst"
+            android:exported="false" />
+        <activity
+            android:name=".EdiyaFirst1"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".EdiyaFirst2"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".EdiyaFirst3"
+            android:exported="false"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".Home"
+            android:exported="true"
+            android:theme="@style/SplashTheme">
+>>>>>>> e0aaee4b117412b34ed13c7991b5de30ba82c8b1
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
